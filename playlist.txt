@@ -2,6 +2,7 @@ SONG - ARTIST
 =============
 The Lizard Wizard
 The king
+The Dancing Queen - ABBA
 Some song - someone
 another song - someone else
 more songs - more artists
